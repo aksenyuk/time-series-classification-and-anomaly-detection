@@ -1,5 +1,6 @@
 # Classification and Anomaly Pattern Detection of Time Series
 
+Co-authored-by: [@giminosk](https://github.com/Giminosk)
 
 ## Preamble
 
